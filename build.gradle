@@ -55,11 +55,11 @@ bootJar {
 }
 
 sonar {
-    properties {
-        property "sonar.projectKey", "TODO"
-        property "sonar.organization", "TODO"
-        property "sonar.host.url", "https://sonarcloud.io"
-    }
+  properties {
+    property "sonar.projectKey", "Panenka29_sopra-fs26-group-05-server"
+    property "sonar.organization", "panenka29"
+    property "sonar.host.url", "https://sonarcloud.io"
+  }
 }
 
 jacocoTestReport {
